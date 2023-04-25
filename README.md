@@ -1,8 +1,6 @@
-#
-Website: https://mitchellkimbell.com/
 
-#
-Email: Mfkimbell@gmail.com
+# Website: https://mitchellkimbell.com/
 
-#
-Cell: (205)312-8982
+# Email: Mfkimbell@gmail.com
+
+# Cell: (205)312-8982
