@@ -3,9 +3,7 @@
 
 # Email: Mfkimbell@gmail.com
 
-### Hi there, I usually go by Mitch. 
-
-### Thankful I work in a field where I can be creative and learn something new every day. Programming, engineering, developing, and innovating; lets get after it!
+### I'm a cloud-focused engineer that enjoys learning about highly scaled and distributed systems
 
 ### Learn more about me at my website: <b>𝗠𝗶𝘁𝗰𝗵𝗲𝗹𝗹𝗞𝗶𝗺𝗯𝗲𝗹𝗹.𝗰𝗼𝗺</b>
 
